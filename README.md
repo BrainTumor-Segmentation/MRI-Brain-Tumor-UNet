@@ -45,7 +45,7 @@ The aim is to accurately identify and segment tumor regions, which is critical f
 
 | MRI Image | Ground Truth | Prediction |
 |-----------|--------------|------------|
-| ![img1](results/mri.png) | ![gt1](results/gt.png) | ![pred1](results/pred.png) |
+| ![img1](results/mri1.png) | ![gt1](results/gt1.png) | ![pred1](results/pred1.png) |
 
 ---
 
